@@ -1,10 +1,10 @@
-# HealthHub: Flutter Health App
+# Saheli: Flutter Health App
 
-![HealthHub Logo](link_to_logo_image)
+![Saheli Logo](link_to_logo_image)
 
 ## Overview
 
-HealthHub is a sophisticated Flutter app designed to elevate user experience with seamless voice-to-text and text-to-speech features. The application integrates the robust OpenAI API for precise medical queries and DALL·E for creative image generation. This holistic approach not only delivers critical health information but also provides engaging creative outputs.
+Saheli is a sophisticated Flutter app designed to elevate user experience with seamless voice-to-text and text-to-speech features. The application integrates the robust OpenAI API for precise medical queries and DALL·E for creative image generation. This holistic approach not only delivers critical health information but also provides engaging creative outputs.
 
 ## Features
 
@@ -16,11 +16,11 @@ HealthHub is a sophisticated Flutter app designed to elevate user experience wit
 
 - **Flutter Animations**: Captivate users with engaging Flutter animations, contributing to a 20% increase in user engagement.
 
-- **Improved Accessibility**: HealthHub is committed to a 25% improvement in healthcare accessibility for rural women, making critical health information readily available.
+- **Improved Accessibility**: Saheli is committed to a 25% improvement in healthcare accessibility for rural women, making critical health information readily available.
 
 ## Getting Started
 
-To get started with HealthHub, follow the steps below:
+To get started with Saheli, follow the steps below:
 
 ### Prerequisites
 
@@ -31,4 +31,4 @@ To get started with HealthHub, follow the steps below:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/healthhub.git
+   git clone https://github.com/your-username/Saheli.git
